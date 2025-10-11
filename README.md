@@ -57,7 +57,7 @@ Clique em “Open”
 
 ⚙️ 3. Verificar o Node.js
 
-Abra o terminal do VS Code (atalho: Ctrl + ')
+Abra o terminal do VS Code 
 Digite o comando abaixo pra garantir que o Node está instalado:
 
 node -v
