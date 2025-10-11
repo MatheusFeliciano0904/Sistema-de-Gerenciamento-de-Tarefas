@@ -11,11 +11,11 @@ Escopo:
   Implemente quatro CRUDs completos (Create, Read/List, Update, Delete) para:
   1. Usuário (quem executa/recebe tarefas);
   2. Projeto (agrupa tarefas);
-  3. Categoria (classifica tarefas); e
+  3. Categoria (classifica tarefas);
   4. Tarefa (entidade principal).
   E gere um relatório básico em tela com:
   • Tarefas por Status (A FAZER, FAZENDO E FEITO), com contagem e listagem;
-  • Tarefas vencidas (prazo < hoje); e
+  • Tarefas vencidas (prazo < hoje);
   • Resumo por Projeto e por Usuário (quantidades).
 
 
