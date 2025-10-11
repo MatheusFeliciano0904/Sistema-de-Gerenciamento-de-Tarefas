@@ -1,5 +1,6 @@
-============================== Sistema de Gerenciamento de Tarefas =============================
 ```
+============================== Sistema de Gerenciamento de Tarefas =============================
+
 Objetivo
   • Modelagem OO (classes, enums, relacionamentos);
   • Camadas (domínio, repositório, serviço, UI);
