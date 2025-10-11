@@ -2,8 +2,8 @@
 Um sistema completo para gerenciamento de tarefas, projetos, usuários e categorias desenvolvido 
 em JavaScript/Node.js com arquitetura em camadas.
 
+```
 sistema-tarefas/
-│
 ├── model/
 │   ├── Usuario.js
 │   ├── Projeto.js
@@ -27,6 +27,8 @@ sistema-tarefas/
 │   └── Main.js
 │
 └── app.js
+```
+
 
 
 
