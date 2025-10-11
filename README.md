@@ -3,6 +3,33 @@ Um sistema completo para gerenciamento de tarefas, projetos, usuários e categor
 em JavaScript/Node.js com arquitetura em camadas.
 
 
+sistema-tarefas/
+│
+├── model/
+│   ├── Usuario.js
+│   ├── Projeto.js
+│   ├── Categoria.js
+│   ├── Tarefa.js
+│   ├── enums.js
+│
+├── repository/
+│   ├── UsuarioRepository.js
+│   ├── ProjetoRepository.js
+│   ├── CategoriaRepository.js
+│   ├── TarefaRepository.js
+│
+├── service/
+│   ├── UsuarioService.js
+│   ├── ProjetoService.js
+│   ├── CategoriaService.js
+│   ├── TarefaService.js
+│
+├── ui/
+│   └── Main.js
+│
+└── app.js
+
+
 
 
 
