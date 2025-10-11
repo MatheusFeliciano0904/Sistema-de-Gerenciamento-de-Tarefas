@@ -1,5 +1,5 @@
 ============================== Sistema de Gerenciamento de Tarefas =============================
-
+```
 Objetivo
   • Modelagem OO (classes, enums, relacionamentos);
   • Camadas (domínio, repositório, serviço, UI);
@@ -18,7 +18,7 @@ Escopo:
   • Tarefas vencidas (prazo < hoje); e
   • Resumo por Projeto e por Usuário (quantidades).
 
-```
+
 sistema-tarefas/
 ├── model/
 │   ├── Usuario.js
@@ -43,7 +43,7 @@ sistema-tarefas/
 │   └── Main.js
 │
 └── app.js
-```
+
 
 
 ==================================== Modo de Execução ===================================
@@ -69,7 +69,7 @@ No terminal do VS Code (dentro da pasta sistema-tarefas), digite:
 
 node ui/Menu.js
 
-
+```
 
 
 
